@@ -33,3 +33,19 @@ I said MVVM pattern is good!<br>
 第3文型の特徴は、動詞が必ず他動詞になることです。つまり動詞の後にdiscuss atとか、watch atのような前置詞はつけません。
 そしてOは動作の対象であるため、S＝Oにはなりません。Oは動作を受ける対象になります。
 
+第4文型の特徴は「SはO1にO2を与える、加える」という意味です。Oが2つありますが第1目的語（O1）と第2目的語（O2）で構成されています。
+
+I gave the Flutter book to icchy<br>
+I will teach yui about riverpod<br>
+
+第4文型によく使われる英語はある程度決まっています。
+（例）
+give（～与える） teach（～教える） tell（～伝える） show（～示す） lend（～貸す） write（～書く） throw（～投げる）
+
+try catch throws an error
+
+第5文型の特徴は「O=C」の関係になることです。
+このOとCの間に「隠れたSVがある」と表現されることも多いです。
+
+I found this to be a gentle Swift book.<br>
+I made minn angry!<br>
